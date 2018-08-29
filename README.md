@@ -1,5 +1,5 @@
 # nextMediaTest
-
+# please forive The CSS i was completly working on Vue Nuxt Axios 
 > test
 
 ## Build Setup
